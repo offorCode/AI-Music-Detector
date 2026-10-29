@@ -30,7 +30,7 @@ AI-Music Detector is free to use. If it is useful to you, you can support its co
 - **USDT:** `TEHviarX7EooeCYBuut4SLX8eUDxzsPvLp` — send USDT on the TRON network (TRC20) only.
 - **Bitcoin:** `184ZYveWrPm24kutxAP1tUDKB1NVciLbt4` — send BTC on the Bitcoin network only.
 
-For help, contact us on [WhatsApp](https://wa.me/233530842130) at +233 530 842 130. Thank you for your support!
+For help, contact us on [WhatsApp](https://wa.me/233530842130) Thank you for your support!
 
 ## Model source and license
 
