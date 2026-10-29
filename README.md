@@ -21,6 +21,17 @@ Run `package_windows.ps1` to create `dist/AI-Music-Detector-source.zip`. Share t
 
 The model score is compared with a threshold that includes an uncertainty band. The app reports **Likely AI-generated**, **Likely human-made**, or **Uncertain result**. This is a model estimate, not proof of who made the music. The released checkpoint's reported F1 is 0.97 on its authors' SONICS test set; performance can fall on other generators, edited or compressed audio, excerpts, and human–AI mixes. Do not use a result as proof or to accuse an artist.
 
+## Support the project
+
+AI-Music Detector is free to use. If it is useful to you, you can support its continued development:
+
+- [PayPal](https://www.paypal.com/ncp/payment/75JCGB569TXGN)
+- [Ko-fi](https://ko-fi.com/chechris)
+- **USDT:** `TEHviarX7EooeCYBuut4SLX8eUDxzsPvLp` — send USDT on the TRON network (TRC20) only.
+- **Bitcoin:** `184ZYveWrPm24kutxAP1tUDKB1NVciLbt4` — send BTC on the Bitcoin network only.
+
+For help, contact us on [WhatsApp](https://wa.me/233530842130) at +233 530 842 130. Thank you for your support!
+
 ## Model source and license
 
 The selected checkpoint is listed as MIT licensed by the [SONICS model card](https://huggingface.co/awsaf49/sonics-spectttra-alpha-120s); the official project lists code and models as MIT while listing its training dataset separately as CC BY-NC 4.0. The app also includes MIT-licensed AIGM Detector source. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
